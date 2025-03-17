@@ -10,6 +10,16 @@
 5. Clique no botão "Sortear Amigo";
 6. O nome do amigo sorteado irá aparecer junto com a frase "Amigo sorteado: (nome do amigo)".
 
+<p align="row">
+  <img width="300" height="300" src="Challenge_amigo_secreto/img/sorteioamigosecreto.png">
+  <img width="300" height="300" src="Challenge_amigo_secreto/img/button-remover-nome.png">
+<p>
+
+<p align="row">
+  <img width="300" height="300" src="Challenge_amigo_secreto/img/alert-inserir-nome-valido.png">
+  <img width="300" height="300" src="Challenge_amigo_secreto/img/alert-amigo-ja-adicionado.png">
+<p>
+
 #### Observações <h4>
 1. Caso o usuário clique no botão "Adicionar" sem ter digitado um nome, aparecerá o alerta "Por favor, insira um nome válido".
 2. Caso o usuário repita um nome já adicionado, aparecerá o alerta "Amigo já adicionado".
